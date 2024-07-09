@@ -1,0 +1,19 @@
+A Taste of Bioinformatics:
+Exploring the Pathogenetics of Clostridium botulinum
+https://stud.epsilon.slu.se/20182/1/trudova-e-2024-06-26.pdf
+
+This interdisciplinary thesis investigates Clostridium botulinum and botulism disease, spanning
+molecular biology, epidemiology, bioinformatics as well as clinical diagnosis and treatment. It
+delves into the morphology, genetics and environmental distribution of Clostridium botulinum,
+highlighting its adaptive strategies and spore formation and germination. This research aims to
+provide a comprehensive understanding of botulinum toxins, BoNT A-G by application of
+bioinformatic strategies to information gathering, information analysis and in silica methods, when
+researching protein interactions involved in intoxication. This study conducted a representative
+selection of BoNT strands, to visualise in silica relationship between toxins classified as BoNT AG with a multiple sequence alignment of selected strands using Clustal O (1.2.3). Data was analysed
+for phylogenetic relationships among these strains. The results are organised, to highlight
+similarities and differences across the strains in relationship, providing figures for “Clustal
+highlight”, “Positive”, “Negative” and “Hydrophobicity” regions in sequences. Data collection
+included analysis of available data from different databasessuch as NCBI, PDB and UniProt. Protein
+structure of the BoNT/A Hall strain, protein database entry 2nyy, was visualized using PDB and
+BioPython.
+Keywords: Clostridium botulinum, Bioinformatics, BoNT, Botulism, Toxin Analysis 
